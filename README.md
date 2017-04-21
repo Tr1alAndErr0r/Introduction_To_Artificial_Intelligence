@@ -1,1 +1,2 @@
-CSCI 4202: Introduction to Artificial Intelligence Programming Assignments
+CSCI 4202: Introduction to Artificial Intelligence 
+Programming Assignments
