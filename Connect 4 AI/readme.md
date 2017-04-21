@@ -16,4 +16,5 @@ If there is no winner then the grid is broken down into all possible straight 4 
 -16 if player 2 goes next  
 
 The java program reads the game state in JSON format from standard input, calculates a move and then writes the move in JSON format to standard output.  
+
 Run with connect-four-driver or connect-four-graphical-driver (written by Doug Williams) to test against naive (connect-four-naive) or other connect four Ai's
