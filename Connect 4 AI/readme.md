@@ -1,9 +1,9 @@
 A connect 4 AI using mini-max and the following evaluaton function: 
 
 Point criteria broke down as follows (assuming player 1 is the current program and player 2 is the opponent/naive player):
-◦ A win by player 1: +512 points
-◦ A win by player 2: -512 points
-◦ A draw: 0
+A win by player 1: +512 points
+A win by player 2: -512 points
+A draw: 0
 
 If there is no winner then the grid is broken down into all possible straight 4 segments (vertically, horizontally, and diagonally) and the following points were assigned:
 ◦ -50 points: for 3 pieces in the segment from player 2 and 0 pieces from player 1
