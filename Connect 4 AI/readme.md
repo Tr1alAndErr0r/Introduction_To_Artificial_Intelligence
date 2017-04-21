@@ -1,7 +1,7 @@
 A connect 4 AI using mini-max and the following evaluaton function: 
 
 Point criteria broke down as follows (assuming player 1 is the current program and player 2 is the opponent/naive player):
-A win by player 1: +512 points
+\n A win by player 1: +512 points
 A win by player 2: -512 points
 A draw: 0
 
