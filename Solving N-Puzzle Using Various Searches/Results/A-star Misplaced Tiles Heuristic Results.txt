@@ -1,0 +1,56 @@
+H-one results
+
+1-moves
+States Examined: 3
+Move List: 1 moves
+[UP]
+
+2-moves
+States Examined: 7
+Move List: 2 moves
+[LEFT, UP]
+
+3-moves
+States Examined: 10
+Move List: 3 moves
+[UP, LEFT, UP]
+
+4-moves
+States Examined: 12
+Move List: 4 moves
+[LEFT, UP, LEFT, UP]
+
+5-moves
+States Examined: 15
+Move List: 5 moves
+[DOWN, LEFT, UP, LEFT, UP]
+
+10-moves
+States Examined: 61
+Move List: 10 moves
+[UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+15-moves
+States Examined: 1195
+Move List: 15 moves
+[RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+20-moves
+States Examined: 10424
+Move List: 20 moves
+[LEFT, LEFT, DOWN, RIGHT, DOWN, RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+25-moves
+States Examined: 118611
+Move List: 25 moves
+[UP, RIGHT, DOWN, DOWN, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, UP, RIGHT, UP, LEFT, DOWN, DOWN, LEFT, UP, UP]
+
+26-moves
+States Examined: 200613
+Move List: 26 moves
+[LEFT, UP, RIGHT, DOWN, DOWN, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, UP, RIGHT, UP, LEFT, DOWN, DOWN, LEFT, UP, UP]
+
+15-puzzle
+States Examined: 82
+Move List: 11 moves
+[RIGHT, RIGHT, UP, LEFT, UP, LEFT, DOWN, RIGHT, DOWN, DOWN, RIGHT]

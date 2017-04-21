@@ -1,0 +1,56 @@
+Results for breadth-fist search
+
+1-moves
+States Examined: 7
+Move List: 1 moves
+[UP]
+
+2-moves
+States Examined: 16
+Move List: 2 moves
+[LEFT, UP]
+
+3-moves
+States Examined: 38
+Move List: 3 moves
+[UP, LEFT, UP]
+
+4-moves
+States Examined: 50
+Move List: 4 moves
+[LEFT, UP, LEFT, UP]
+
+5-moves
+States Examined: 152
+Move List: 5 moves
+[DOWN, LEFT, UP, LEFT, UP]
+
+10-moves
+States Examined: 1688
+Move List: 10 moves
+[UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+15-moves
+States Examined: 17832
+Move List: 15 moves
+[RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+25-moves
+States Examined: 420354
+Move List: 25 moves
+[UP, RIGHT, DOWN, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT]
+
+20-moves
+States Examined: 110086
+Move List: 20 moves
+[LEFT, LEFT, DOWN, RIGHT, DOWN, RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+26-moves
+States Examined: 442326
+Move List: 26 moves
+[LEFT, UP, RIGHT, DOWN, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT]
+
+15-puzzle
+States Examined: 23104
+Move List: 11 moves
+[RIGHT, RIGHT, UP, LEFT, UP, LEFT, DOWN, RIGHT, DOWN, DOWN, RIGHT]

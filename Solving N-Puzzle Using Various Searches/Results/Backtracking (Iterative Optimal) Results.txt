@@ -1,0 +1,56 @@
+Results for backtracking optimal
+
+1-moves
+States Examined: 6
+Move List: 1 moves
+[UP]
+
+2-moves
+States Examined: 19
+Move List: 2 moves
+[LEFT, UP]
+
+3-moves
+States Examined: 65
+Move List:
+[UP, LEFT, UP]
+
+4-moves
+States Examined: 90
+Move List: 4 moves
+[LEFT, UP, LEFT, UP]
+
+5-moves
+States Examined: 320
+Move List: 5 moves
+[DOWN, LEFT, UP, LEFT, UP]
+
+10-moves
+States Examined: 4751
+Move List: 10 moves
+[UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+15-moves
+States Examined: 72938
+Move List: 15 moves
+[RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+20-moves
+States Examined: 827112
+Move List: 20 moves
+[LEFT, LEFT, DOWN, RIGHT, DOWN, RIGHT, UP, LEFT, DOWN, LEFT, UP, RIGHT, UP, RIGHT, DOWN, DOWN, LEFT, UP, LEFT, UP]
+
+25-moves
+States Examined: 20286007
+Move List: 25 moves
+[UP, RIGHT, DOWN, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT]
+
+26-moves
+States Examined: 28877957
+Move List: 26 moves
+[LEFT, UP, RIGHT, DOWN, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT]
+
+15-puzzle
+States Examined: 50200
+Move List: 11 moves
+[RIGHT, RIGHT, UP, LEFT, UP, LEFT, DOWN, RIGHT, DOWN, DOWN, RIGHT]
